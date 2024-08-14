@@ -1,4 +1,4 @@
-# Transactions Dashboard
+# Transaction Dashboard
 
 ## Screeshots:
 ![Capture-2024-08-13-202131](https://github.com/user-attachments/assets/8952a0fc-92db-4bae-b019-6d57f18e95da)
